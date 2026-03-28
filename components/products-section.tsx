@@ -19,22 +19,22 @@ const products = [
     ],
     moq: '1 Metric Ton',
     leadTime: '10-20 days'
-  },
-  {
-    id: 2,
-    name: 'Corrugated Carton Boxes',
-    image: '/boxes.jpg',
-    description: 'High-quality corrugated cardboard packaging boxes designed for strength and durability. Perfect for storage, transportation, and export packaging purposes.',
-    features: [
-      'Premium Materials',
-      'High Durability',
-      'Customizable',
-      'Structural Integrity',
-      'International Standards'
-    ],
-    moq: '500-1000 units',
-    leadTime: '15-30 days'
   }
+  // {
+  //   id: 2,
+  //   name: 'Corrugated Carton Boxes',
+  //   image: '/boxes.jpg',
+  //   description: 'High-quality corrugated cardboard packaging boxes designed for strength and durability. Perfect for storage, transportation, and export packaging purposes.',
+  //   features: [
+  //     'Premium Materials',
+  //     'High Durability',
+  //     'Customizable',
+  //     'Structural Integrity',
+  //     'International Standards'
+  //   ],
+  //   moq: '500-1000 units',
+  //   leadTime: '15-30 days'
+  // }
 ]
 
 export function ProductsSection() {

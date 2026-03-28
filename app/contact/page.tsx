@@ -286,7 +286,8 @@ export default function ContactPage() {
             {[
               {
                 q: 'What is the minimum order quantity?',
-                a: 'For Organic Kavuni Rice, MOQ is 1 Metric Ton. For Corrugated Boxes, MOQ is 500-1000 units depending on customization.',
+                //a: 'For Organic Kavuni Rice, MOQ is 1 Metric Ton. For Corrugated Boxes, MOQ is 500-1000 units depending on customization.',
+                a: 'For Organic Kavuni Rice, MOQ is 1 Metric Ton.',
               },
               {
                 q: 'What are your standard payment terms?',

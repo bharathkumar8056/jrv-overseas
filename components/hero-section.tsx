@@ -56,7 +56,7 @@ export function HeroSection() {
           {/* Right Banner */}
           <div className="relative h-96 md:h-full min-h-96 order-1 md:order-2">
             <Image
-              src="/hero-banner.jpg"
+              src="/hero-banner2.png"
               alt="JRV Overseas - Agricultural exports"
               fill
               className="object-cover rounded-2xl shadow-2xl"

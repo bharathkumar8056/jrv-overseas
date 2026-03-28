@@ -38,7 +38,7 @@ export default function Home() {
       {/* Hero Section - Full Width */}
       <section className="relative overflow-hidden h-screen max-h-[600px] lg:max-h-[700px]">
         <Image
-          src="/hero-banner.png"
+          src="/hero-banner2.png"
           alt="Premium Black Kavuni Rice and Corrugated Boxes"
           fill
           className="object-cover absolute inset-0"
@@ -120,11 +120,11 @@ export default function Home() {
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+          <div className="flex justify-center">
             {/* Kavuni Rice */}
             <Link
               href="/products/kavuni-rice"
-              className="group overflow-hidden rounded-2xl bg-white border border-border/30 hover:border-accent/50 transition-all"
+              className="group overflow-hidden rounded-2xl bg-white border border-border/30 hover:border-accent/50 transition-all w-full max-w-lg"
             >
               <div className="relative h-64 overflow-hidden">
                 <Image
@@ -145,7 +145,7 @@ export default function Home() {
               </div>
             </Link>
 
-            {/* Corrugated Boxes */}
+            {/* Corrugated Boxes - COMMENTED OUT
             <Link
               href="/products/corrugated-boxes"
               className="group overflow-hidden rounded-2xl bg-white border border-border/30 hover:border-accent/50 transition-all"
@@ -168,6 +168,7 @@ export default function Home() {
                 </div>
               </div>
             </Link>
+            */}
           </div>
         </div>
       </section>
@@ -262,6 +263,7 @@ export default function Home() {
               </ul>
             </div>
 
+            {/* Corrugated Carton Boxes - COMMENTED OUT
             <div className="bg-background p-8 rounded-xl border border-border/30">
               <h3 className="text-2xl font-bold text-primary mb-4">Corrugated Carton Boxes</h3>
               <ul className="space-y-3">
@@ -288,6 +290,7 @@ export default function Home() {
                 </li>
               </ul>
             </div>
+            */}
           </div>
         </div>
       </section>

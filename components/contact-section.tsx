@@ -71,7 +71,7 @@ export function ContactSection() {
                   <p className="text-sm uppercase text-amber-700 font-semibold mb-2">Address</p>
                   <p className="text-amber-800 leading-relaxed">
                     4/83, Melappaniyur<br />
-                    Pudukkottai 622412<br />
+                    Pudukkottai - 622412 <br />
                     Tamil Nadu, India
                   </p>
                 </div>

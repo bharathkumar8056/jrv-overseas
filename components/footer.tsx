@@ -55,7 +55,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-2 text-muted-foreground">
                 <MapPin className="w-4 h-4 mt-0.5 text-accent flex-shrink-0" />
-                <span className="text-xs">Melappaniyur, Pudukkottai 622412, Tamil Nadu</span>
+                <span className="text-xs">Melappaniyur, Pudukkottai - 622412, Tamil Nadu</span>
               </li>
             </ul>
           </div>

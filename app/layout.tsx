@@ -9,7 +9,7 @@ const _lato = Lato({ weight: ["400", "700"], subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'JRV Overseas - Premium Rice & Packaging Exports',
   description: 'Premium organic Kavuni rice and corrugated packaging solutions from Tamil Nadu, India. International B2B export company providing quality agricultural products.',
-  generator: 'v0.app',
+  generator: 'BKB Incorporation',
   viewport: {
     width: 'device-width',
     initialScale: 1,
@@ -18,19 +18,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: '/JRV-logo.jpeg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: '/JRV-logo.jpeg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: '/JRV-logo.jpeg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/JRV-logo.jpeg',
   },
 }
 

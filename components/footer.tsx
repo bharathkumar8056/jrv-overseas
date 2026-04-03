@@ -1,7 +1,8 @@
 'use client'
 
 import Link from 'next/link'
-import { MapPin, Phone, Mail, Leaf, Instagram } from 'lucide-react'
+import Image from 'next/image'
+import { MapPin, Phone, Mail, Instagram } from 'lucide-react'
 
 export function Footer() {
   const currentYear = new Date().getFullYear()
@@ -13,7 +14,14 @@ export function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <Leaf className="w-6 h-6 text-primary" />
+              <div className="w-12 h-12 relative flex-shrink-0">
+                <Image
+                  src="/JRV-logo.jpeg"
+                  alt="JRV Overseas Logo"
+                  fill
+                  className="object-contain"
+                />
+              </div>
               <h3 className="text-xl font-bold text-foreground">JRV Overseas</h3>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">

@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { useState } from 'react'
 import { Menu, X } from 'lucide-react'
 
@@ -20,8 +21,14 @@ export function Header() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <div className="w-12 h-12 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">JRV</span>
+            <div className="w-12 h-12 relative flex-shrink-0">
+              <Image
+                src="/JRV-logo.jpeg"
+                alt="JRV Overseas Logo"
+                fill
+                className="object-contain"
+                priority
+              />
             </div>
             <div className="hidden sm:block">
               <p className="text-xl font-bold text-foreground">JRV Overseas</p>

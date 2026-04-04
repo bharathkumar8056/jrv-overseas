@@ -76,7 +76,7 @@ export function AboutSection() {
 
                 <div>
                   <p className="text-sm uppercase text-amber-700 font-semibold mb-2">Phone</p>
-                  <p className="text-amber-800">+91 9655872909</p>
+                  <p className="text-amber-800">+91 9360915741</p>
                 </div>
               </div>
             </div>

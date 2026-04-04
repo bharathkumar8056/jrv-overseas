@@ -18,19 +18,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/JRV-logo.jpeg',
+        url: '/JRV-logo1.jpeg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/JRV-logo.jpeg',
+        url: '/JRV-logo1.jpeg',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/JRV-logo.jpeg',
+        url: '/JRV-logo1.jpeg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/JRV-logo.jpeg',
+    apple: '/JRV-logo1.jpeg',
   },
 }
 

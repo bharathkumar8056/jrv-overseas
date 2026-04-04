@@ -62,8 +62,8 @@ export function ContactSection() {
 
                 <div>
                   <p className="text-sm uppercase text-amber-700 font-semibold mb-2">Phone</p>
-                  <a href="tel:+919655872909" className="text-lg text-amber-800 hover:text-amber-950">
-                    +91 9655872909
+                  <a href="tel:+919360915741" className="text-lg text-amber-800 hover:text-amber-950">
+                    +91 9360915741
                   </a>
                 </div>
 

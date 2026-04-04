@@ -49,8 +49,8 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: 'Phone',
-      value: '+91 96558 72909',
-      link: 'tel:+919655872909',
+      value: '+91 93609 15741',
+      link: 'tel:+919360915741',
     },
     {
       icon: Mail,
@@ -330,13 +330,13 @@ export default function ContactPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919655872909"
+              href="tel:+919360915741"
               className="px-8 py-3.5 bg-gradient-to-r from-primary to-accent text-white rounded-lg hover:shadow-2xl transition-all font-semibold"
             >
               Call Now
             </a>
             <a
-              href="https://wa.me/919655872909?text=Hello! I am interested in your products."
+              href="https://wa.me/919360915741?text=Hello! I am interested in your products."
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3.5 border-2 border-primary text-primary rounded-lg hover:bg-primary/5 transition-all font-semibold"

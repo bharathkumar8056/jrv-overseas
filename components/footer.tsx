@@ -14,15 +14,18 @@ export function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <div className="w-12 h-12 relative flex-shrink-0">
+              <div className="w-20 h-20 relative flex-shrink-0">
                 <Image
-                  src="/JRV-logo.jpeg"
+                  src="/JRV-logo1.jpeg"
                   alt="JRV Overseas Logo"
                   fill
                   className="object-contain"
                 />
               </div>
-              <h3 className="text-xl font-bold text-foreground">JRV Overseas</h3>
+              <div className="hidden sm:block">
+              <p className="text-base font-bold text-foreground">JRV Overseas</p>
+              <p className="text-xs text-muted-foreground">Premium Exports</p>
+            </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Premium organic agricultural and packaging exports from Tamil Nadu, India to global markets.
@@ -55,7 +58,7 @@ export function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2 text-muted-foreground">
                 <Phone className="w-4 h-4 mt-0.5 text-accent flex-shrink-0" />
-                <a href="tel:+919655872909" className="hover:text-primary transition">+91 96558 72909</a>
+                <a href="tel:+919360915741" className="hover:text-primary transition">+91 93609 15741</a>
               </li>
               <li className="flex items-start gap-2 text-muted-foreground">
                 <Mail className="w-4 h-4 mt-0.5 text-accent flex-shrink-0" />

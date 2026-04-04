@@ -21,9 +21,9 @@ export function Header() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <div className="w-12 h-12 relative flex-shrink-0">
+            <div className="w-24 h-24 relative flex-shrink-0">
               <Image
-                src="/JRV-logo.jpeg"
+                src="/JRV-logo1.jpeg"
                 alt="JRV Overseas Logo"
                 fill
                 className="object-contain"
@@ -31,7 +31,7 @@ export function Header() {
               />
             </div>
             <div className="hidden sm:block">
-              <p className="text-xl font-bold text-foreground">JRV Overseas</p>
+              <p className="text-base font-bold text-foreground">JRV Overseas</p>
               <p className="text-xs text-muted-foreground">Premium Exports</p>
             </div>
           </Link>

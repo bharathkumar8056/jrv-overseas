@@ -125,8 +125,8 @@ export default function AboutPage() {
                     <Phone className="w-6 h-6 text-accent flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-foreground">Phone</p>
-                      <a href="tel:+919655872909" className="text-primary hover:text-accent transition-colors">
-                        +91 96558 72909
+                      <a href="tel:+919360915741" className="text-primary hover:text-accent transition-colors">
+                        +91 93609 15741
                       </a>
                     </div>
                   </div>

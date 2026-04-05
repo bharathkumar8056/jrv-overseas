@@ -29,7 +29,7 @@ export function AboutSection() {
             <div>
               <h2 className="text-5xl font-bold text-amber-950 font-serif mb-6">About JRV Overseas</h2>
               <p className="text-lg text-amber-800 leading-relaxed mb-6">
-                Based in Tamil Nadu, India, JRV Overseas is a leading international export company specializing in premium agricultural products and packaging solutions. With years of experience in global trade, we connect businesses worldwide with authentic, high-quality products.
+                Based in Tamil Nadu, India, JRV Overseas is a leading international export company specializing in premium agricultural products. With years of experience in global trade, we connect businesses worldwide with authentic, high-quality products.
               </p>
               <p className="text-lg text-amber-800 leading-relaxed">
                 Our commitment to excellence, sustainable farming practices, and customer satisfaction has made us a trusted partner for businesses across 50+ countries.

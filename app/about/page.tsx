@@ -63,7 +63,7 @@ export default function AboutPage() {
                 Our mission is to bridge the gap between traditional farming heritage and international market demands. We believe in sustainable agriculture, fair practices, and delivering products that bring pride to every buyer.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Whether you're seeking premium organic rice for your market or reliable packaging solutions for your exports, JRV Overseas is your trusted partner for quality, reliability, and authentic cultural heritage.
+                Whether you're seeking premium organic rice for your market exports, JRV Overseas is your trusted partner for quality, reliability, and authentic cultural heritage.
               </p>
             </div>
           </div>

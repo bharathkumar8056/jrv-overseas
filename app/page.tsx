@@ -55,7 +55,7 @@ export default function Home() {
                   Experience Premium Quality, Globally Delivered
                 </h1>
                 <p className="text-xl text-white/80 leading-relaxed">
-                  JRV Overseas brings authentic Tamil Nadu agricultural excellence to the world with organic Kavuni rice and premium corrugated packaging solutions.
+                  JRV Overseas brings authentic Tamil Nadu agricultural excellence to the world with organic Kavuni rice.
                 </p>
               </div>
               <div className="flex gap-4 flex-wrap pt-4">

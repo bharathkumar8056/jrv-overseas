@@ -35,7 +35,7 @@ export default function AboutPage() {
             About JRV Overseas
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl">
-            Your trusted partner for premium organic agricultural products and packaging solutions from Tamil Nadu, India.
+            Your trusted partner for premium organic agricultural products from Tamil Nadu, India.
           </p>
         </div>
       </section>
@@ -57,7 +57,7 @@ export default function AboutPage() {
                 Our Story & Vision
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                JRV Overseas is dedicated to bringing authentic Tamil Nadu agricultural excellence to the global market. With deep roots in traditional farming practices and modern export standards, we cultivate premium organic Kavuni rice and manufacture high-quality corrugated packaging solutions.
+                JRV Overseas is dedicated to bringing authentic Tamil Nadu agricultural excellence to the global market. With deep roots in traditional farming practices and modern export standards, we cultivate premium organic Kavuni rice.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Our mission is to bridge the gap between traditional farming heritage and international market demands. We believe in sustainable agriculture, fair practices, and delivering products that bring pride to every buyer.
